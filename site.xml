@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.seasar.doma.extension.feature_1.0.0.201002131300.jar" id="org.seasar.doma.extension.feature" version="1.0.0.201002131300">
+      <category name="Doma"/>
+   </feature>
+   <category-def name="Doma" label="Doma"/>
+</site>
